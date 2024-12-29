@@ -10,7 +10,9 @@ public class Array {
         //the i++ is you counting your arrays upward
         for (int i=0; i <= fire.length; i++ ){
             System.out.println(fire [i]);
-
+//Question: Write a Java program that determines if a person (with the age stored in age)
+// qualifies for a senior citizen discount. The qualifying age is 65 and above.
+// Print "You qualify for the discount" or "You do not qualify for the discount."
         }
 
     }
